@@ -4,6 +4,7 @@ Growth mindest is the ability to remain amenable to changes, contuing education 
 1. **Learn something new**
 2. _Practice it, produce it, improve it_
 3. Welcome and solicit feedback from insturctors and peers
+
 4.~~Give up~~
 
 [Growth Mindset!](https://www.mindsetworks.com/science/)
