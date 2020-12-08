@@ -6,7 +6,7 @@ Growth mindest is the ability to remain amenable to changes, contuing education 
 3. Welcome and solicit feedback from insturctors and peers
 4.~~Give up~~
 
-[Check it out!](brainpickings.org/2014/01/29/carol-dweck-mindset/)
+[Growth Mindset!](https://www.mindsetworks.com/science/)
 
 ![Cat Attack](https://octodex.github.com/images/yaktocat.png)
 ![Iron](http://www.pngall.com/wp-content/uploads/4/Marvel-Transparent.png)
