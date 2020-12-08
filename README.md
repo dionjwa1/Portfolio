@@ -6,7 +6,8 @@ Growth mindest is the ability to remain amenable to changes, contuing education 
 3. Welcome and solicit feedback from insturctors and peers
 4. ~~Give up~~
 
-[Contributing File](docs/Vocab.md)
+[Contributing File Vocab](docs/Vocab.md)
+
 [Growth Mindset!](https://www.mindsetworks.com/science/)
 
 ![Cat Attack](https://octodex.github.com/images/yaktocat.png)
