@@ -9,3 +9,4 @@ Growth mindest is the ability to remain amenable to changes, contuing education 
 [Growth Mindset!](https://www.mindsetworks.com/science/)
 
 ![Cat Attack](https://octodex.github.com/images/yaktocat.png)
+![Boxer Dog](https://thedogtrainingsecret.com/wp-content/uploads/2014/07/AdobeStock_15667508.jpeg)
