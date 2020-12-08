@@ -4,7 +4,7 @@ Growth mindest is the ability to remain amenable to changes, contuing education 
 1. **Learn something new
 2. _Practice it, produce it, improve it
 3. Welcome and solicit feedback from insturctors and peers
-[https://www.brainpickings.org/2014/01/29/carol-dweck-mindset/]
+(https://www.brainpickings.org/2014/01/29/carol-dweck-mindset/)
 
 
 
