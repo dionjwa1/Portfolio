@@ -1,9 +1,9 @@
 # Growth Mindset Explained
 Growth mindest is the ability to remain amenable to changes, contuing education and learning, and taking on new challenges. 
 ## Three Reminders of Growth Mindset
-1) Learn something new
-2) Practice it, produce it, improve it
-3) Welcome and solicit feedback from insturctors and peers
+1. Learn something new
+2. Practice it, produce it, improve it
+3. Welcome and solicit feedback from insturctors and peers
 - Bulleted
 - List
 
