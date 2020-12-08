@@ -8,7 +8,7 @@ Growth mindest is the ability to remain amenable to changes, contuing education 
 [Check it out!](brainpickings.org/2014/01/29/carol-dweck-mindset/)
 
 ![Cat Attack](https://octodex.github.com/images/yaktocat.png)
-
+![Rainbow](https://www.freepngimg.com/png/59356-berger-color-paints-wallpaper-theme-holi-images.png)
 
 ###Delete Below here when finished
 **Bold** and _Italic_ and `Code` text
