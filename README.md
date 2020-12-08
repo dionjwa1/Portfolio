@@ -1,15 +1,15 @@
 # Growth Mindset Explained
 Growth mindest is the ability to remain amenable to changes, contuing education and learning, and taking on new challenges. 
 ## Three Reminders of Growth Mindset
-1. Learn something new
-2. Practice it, produce it, improve it
+1. **Learn something new
+2. _Practice it, produce it, improve it
 3. Welcome and solicit feedback from insturctors and peers
-- Bulleted
-- List
+[https://www.brainpickings.org/2014/01/29/carol-dweck-mindset/]
 
-1. Numbered
-2. List
 
+
+
+###Delete Below here when finished
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
