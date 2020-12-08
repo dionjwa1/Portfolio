@@ -7,7 +7,7 @@ Growth mindest is the ability to remain amenable to changes, contuing education 
 
 [Check it out!](brainpickings.org/2014/01/29/carol-dweck-mindset/)
 
-![Salmon](https://en.wikipedia.org/wiki/Salmon#/media/File:Salmo_salar.jpg)
+![Git](https://guides.github.com/activities/hello-world/)
 
 
 ###Delete Below here when finished
