@@ -14,5 +14,5 @@ Growth mindest is the ability to remain amenable to changes, contuing education 
 ![Boxer Dog](https://thedogtrainingsecret.com/wp-content/uploads/2014/07/AdobeStock_15667508.jpeg)
 
 
-./docs/Module-2-Notes.md
+[Module 2] (docs/Module-2-Notes.md)
 
