@@ -1,4 +1,4 @@
-#Text Editors
+# Text Editors
 
 **Text Editors**
 1. What are text editors?
@@ -13,7 +13,7 @@
   ***Text Editors vs IDE**
   A text editors manages text while an IDE is a suite program that manages text and other extensions of your work like files and debugging. 
   
-  ##Linux
+  ## Linux
   
   **GUIs and Terminals**
   
@@ -28,7 +28,7 @@
   
   *Relative Paths* identify locations in relations to the current system you occupy
   
-  ###Files
+  ### Files
   
   **Files**
   
