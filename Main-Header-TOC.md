@@ -10,7 +10,7 @@ Yo, my name is Dion. I enjoy eating pizza, working out so I can eat more pizza, 
 
 1. [Module 1 Notes](/Module1Notes.md) 
 1. [Module 2 Notes](/Module-2-Notes.md)
-1. [Module 3 Notes] WIP
+1. [Module 3 Notes](/Module-3-Notes.md>)
 1. [Module 4 Notes] WIP
 1. [Module 5 Notes] WIP
 1. [Module 6 Notes] WIP
