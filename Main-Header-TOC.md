@@ -4,7 +4,7 @@
 
 Yo, my name is Dion. I enjoy eating pizza, working out so I can eat more pizza, and playing hide-n-seek with my dog. I love learning new things and tackling new challenges. Here is to a brighter future through knowledge! 
 
-[Me](/mnt/c/Users/dionj/Portfolio/My Pic.jpg)
+![Me](/Dion.png)
 
 ## Table of Contents
 
