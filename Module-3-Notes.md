@@ -6,7 +6,7 @@
 
     GIT provides a distributed version control repo of files
 
-**How Does it work**    
+**How Does it work?**    
 
 GIT allows file storage, withdrawl, revision staging, final revision submission and historical tracking for file changes.
 
@@ -15,3 +15,10 @@ GIT allows file storage, withdrawl, revision staging, final revision submission 
         - Complete revisions
         - Stage changes
         - Commit changes 
+
+## Commands to remember
+
+    1. -a: shows hidden file list
+    1. ls: list
+    1. mkdir: make directory
+    
