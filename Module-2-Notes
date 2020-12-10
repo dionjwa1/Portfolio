@@ -22,7 +22,7 @@
   2. Command Line (Terminals) this option issues commands of change and structure through text
         - These lines flow in parts starting with the command which flows to an output text and back to the prompt
         
-**Absoulte vs Relative Paths**
+**Absolute vs Relative Paths**
 
   *Absolute Paths* identify root locations and always begin with a slash /
   
