@@ -4,7 +4,7 @@
 
 Yo, my name is Dion(like the mustard). I enjoy eating pizza, working out so I can eat more pizza, and playing hide-n-seek with my dog. I love learning new things, and hope to take away enough from this course to make my visited webpages and applications even better. Here is to a brighter future through knowledge! 
 
-![Me](My Pic.jpg)
+![Me](/My Pic.jpg)
 
 ## Table of Contents
 
