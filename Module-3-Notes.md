@@ -9,6 +9,7 @@
 **How Does it work**    
 
 GIT allows file storage, withdrawl, revision staging, final revision submission and historical tracking for file changes.
+
     - Cycle Process
         - Checkout from Repo
         - Complete revisions
