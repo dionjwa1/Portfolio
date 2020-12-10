@@ -18,7 +18,16 @@ GIT allows file storage, withdrawl, revision staging, final revision submission 
 
 ## Commands to remember
 
-    1. -a: shows hidden file list
-    1. ls: list
-    1. mkdir: make directory
-    
+- -a: shows hidden file list
+- ls: list
+- mkdir: make directory
+- rm dir: remove directory
+- rm-rf: permanently delete
+- touch: create new file
+- git clone: retrieves remote repos
+- git push: pushes comp files to git hub (VCS to DVCS)
+- git commit -m"": commits file changes and notes for revisions
+- git add file.name: stages file for upload to github
+- git pull: updates remote changes to terminal
+- git fetch: checks for changes in remote file to update local (DVCS to VCS)
+
