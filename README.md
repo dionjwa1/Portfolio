@@ -14,6 +14,6 @@ Salutation, my name is Dion. I love learning new things and tackling new challen
 1. [Module 4 Notes](CF-102-Reading-Notes/Module-4-Notes.md)
 1. [Module 5 Notes](CF-102-Reading-Notes/Module-5-Notes.md)
 1. [Module 6 Notes](CF -102-Reading-Notes/Module-6-Notes.md)
-         - [Module 6 P2 Notes](class-6-how-Computer-Work.md)
+1. [Module 6 P2 Notes](class-6-how-Computer-Work.md)
 1. [Module 7 Notes](CF-102-Reading-Notes/Module-7-Notes.md)
 1. [Module 8 Notes](CF-102-Reading-Notes/Module-8-Notes.md)
