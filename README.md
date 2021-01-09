@@ -9,7 +9,7 @@ Salutation, my name is Dion. I love learning new things and tackling new challen
 ## Table of Contents
 
 
-1. <b>102 Course Notes<b>
+1. ### 102 Course Notes
     1. [Module 1 Notes](CF-102-Reading-Notes/Module1Notes.md) 
     1. [Module 2 Notes](CF-102-Reading-Notes/Module-2-Notes.md)
     1. [Module 3 Notes](CF-102-Reading-Notes/Module-3-Notes.md)
@@ -19,5 +19,8 @@ Salutation, my name is Dion. I love learning new things and tackling new challen
          - [Module 6 P2 Notes](class-6-how-Computer-Work.md)
     1. [Module 7 Notes](CF-102-Reading-Notes/Module-7-Notes.md)
     1. [Module 8 Notes](CF-102-Reading-Notes/Module-8-Notes.md)
+
+1. ### 201 Course notes
+    1[Module 1 Notes]
 
 
