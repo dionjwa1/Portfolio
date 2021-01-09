@@ -21,6 +21,6 @@ Salutation, my name is Dion. I love learning new things and tackling new challen
     1. [Module 8 Notes](CF-102-Reading-Notes/Module-8-Notes.md)
 
 1. ### 201 Course notes
-    1. [Class 1 Notes](CF-201-Reading-Notes/class-01-md)
+    1. [Class 1 Notes](CF-201-Reading-Notes/class-01.md)
 
 
