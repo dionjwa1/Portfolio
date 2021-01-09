@@ -15,3 +15,4 @@ Create tasks for Java in the style of a flow chart. Each step of the flow will r
     1. HTML Layout: 
     
         Body> DIV Page> DIV Header> DIV Nav> DIV Content> DIV Footer (you can add classes, ids, and other spaces such as sidebars as needed)
+        Body> DIV Page> DIV Header> DIV Nav> DIV Content> DIV Footer (you can add classes, ids, and other spaces such as sidebars as needed)
