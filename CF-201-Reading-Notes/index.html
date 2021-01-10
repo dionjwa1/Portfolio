@@ -1,25 +1,49 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <title>My201ClassHTML</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./styles.css"></link>
+    <title>Document</title>
 </head>
 <body>
+  
     <header>
-        <main>
-            <h1>Class 1 Label</h1>
-            <p>
-                What is your name?
-            </p>
-        </main>   
-
-        <footer>
-            &copy;2021 codefellows-Dion
-        </footer>
-        <script>
-            // use 4 js prompts asking 4 questions
-            // differnt variables for each response
-        </script>
+        <h1 id="title">Class 1 Lab</h1>
+        <p>What is your name?</p>
+<p id="answer"></p>
     </header>
+    <main>
 
+    </main>
+    <footer>
+        &copy;2021 codefellows-Dion
+    </footer>
+
+    <script>
+        // use 4 js prompts asking 4 questions
+        // differnt variables for each response
+        var username = prompt('what is your name?');
+
+        var favoriteTeam = prompt('favorite team?');
+
+        var sweetTreat = prompt('favorite desert?');
+
+        var favoritePlace = prompt('beach or mountains?');
+
+       let answer = `Hi ${username} Go ${favoriteTeam} Enjoy a ${sweetTreat} At the ${favoritePlace}`;
+
+
+       // alert('Hi ' + username)
+    document.getElementById("answer").innerHTML=answer;
+       
+
+
+       
+
+
+    </script>
+</body>
+</html>
 
 

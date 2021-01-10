@@ -1,0 +1,11 @@
+body{
+    background-color: grey;
+}
+
+h1 {
+    font-size: 3em;
+    color: green
+}
+p{
+    color: white;
+}
