@@ -22,5 +22,19 @@ Salutation, my name is Dion. I love learning new things and tackling new challen
 
 1. ### 201 Course notes
     1. [Class 1 Notes](CF-201-Reading-Notes/class-01.md)
+    1. [Class 2 Notes](CF-201-Reading-Notes/class-02.md)
+    1. [Class 3 Notes](CF-201-Reading-Notes/
+    1. [Class 4 Notes](CF-201-Reading-Notes/
+    1. [Class 5 Notes](CF-201-Reading-Notes/
+    1. [Class 6 Notes](CF-201-Reading-Notes/
+    1. [Class 7 Notes](CF-201-Reading-Notes/
+    1. [Class 8 Notes](CF-201-Reading-Notes/
+    1. [Class 9 Notes](CF-201-Reading-Notes/
+    1. [Class 0 Notes](CF-201-Reading-Notes/
+    1. [Class 11 Notes](CF-201-Reading-Notes/
+    1. [Class 12 Notes](CF-201-Reading-Notes/
+    1. [Class 13 Notes](CF-201-Reading-Notes/
+    1. [Class 14 Notes](CF-201-Reading-Notes/
+    1. [Class 15 Notes](CF-201-Reading-Notes/
 
 
