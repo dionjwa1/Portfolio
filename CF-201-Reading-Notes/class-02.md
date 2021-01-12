@@ -10,11 +10,10 @@
         1. the CSS selector, *, targets all elements on the page. 0.
         
 ## Java Notes 
-
-    1. JS is a series of instrcuctions in the form of statements. Statements are organized into code blocks begining with the statement. 
-        1. Statements are made of variable keywords and the variable name. They are connected through an operator.
+1. JS is a series of instrcuctions in the form of statements. Statements are organized into code blocks begining with the statement. 
+    1. Statements are made of variable keywords and the variable name. They are connected through an operator.
         1. Once a variable has been created, you no longer need to use var . You can just write the variable name 
-            1. Naming rule- name cannot begin with a number. You must use a letter, dollar sign, or an underscore and you cannot use an underscore or period in the name. You cannot use keywords or reservered words in the name.
+         1. Naming rule- name cannot begin with a number. You must use a letter, dollar sign, or an underscore and you cannot use an underscore or period in the name. You cannot use keywords or reservered words in the name.
     1. <b>Arrays</b>
         1. It is ideal to crate arrays using the Array Literal format. 
         1. Array list are accessed as a numbered list starting with the number 0 
