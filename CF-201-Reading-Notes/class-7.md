@@ -1,4 +1,4 @@
-# Class 4 notes
+# Class 7 notes
 
 ## HTML & CSS Notes 
 1. 
