@@ -1,13 +1,12 @@
 # Class 13 notes
 
-## HTML & CSSNotes 
-
-  
+## HTML & CSS Notes 
+1. 
+        
 ## Java Notes 
+1. 
 
 
+        
 ## Useful Code Tips
-
-
-
-## Vocab
+1. 

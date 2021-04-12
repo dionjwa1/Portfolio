@@ -23,16 +23,16 @@ Salutation, my name is Dion. I love learning new things and tackling new challen
 1. ### 201 Course notes
     1. [Class 1 Notes](CF-201-Reading-Notes/class-01.md)
     1. [Class 2 Notes](CF-201-Reading-Notes/class-02.md)
-    1. [Class 3 Notes](CF-201-Reading-Notes/class-03.md)
-    1. [Class 4 Notes](CF-201-Reading-Notes/
-    1. [Class 5 Notes](CF-201-Reading-Notes/
-    1. [Class 6 Notes](CF-201-Reading-Notes/
-    1. [Class 7 Notes](CF-201-Reading-Notes/
-    1. [Class 8 Notes](CF-201-Reading-Notes/
-    1. [Class 9 Notes](CF-201-Reading-Notes/
-    1. [Class 0 Notes](CF-201-Reading-Notes/
-    1. [Class 11 Notes](CF-201-Reading-Notes/
-    1. [Class 12 Notes](CF-201-Reading-Notes/
+    1. [Class 3 Notes](CF-201-Reading-Notes/class-3.md)
+    1. [Class 4 Notes](CF-201-Reading-Notes/class-4.md)
+    1. [Class 5 Notes](CF-201-Reading-Notes/class-5.md)
+    1. [Class 6 Notes](CF-201-Reading-Notes/class-6.md)
+    1. [Class 7 Notes](CF-201-Reading-Notes/class-7.md)
+    1. [Class 8 Notes](CF-201-Reading-Notes/class-8.md)
+    1. [Class 9 Notes](CF-201-Reading-Notes/class-9.md)
+    1. [Class 0 Notes](CF-201-Reading-Notes/class-10.md)
+    1. [Class 11 Notes](CF-201-Reading-Notes/class-11.md)
+    1. [Class 12 Notes](CF-201-Reading-Notes/class-12.md)
     1. [Class 13 Notes](CF-201-Reading-Notes/
     1. [Class 14 Notes](CF-201-Reading-Notes/
     1. [Class 15 Notes](CF-201-Reading-Notes/
