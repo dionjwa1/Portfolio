@@ -1,6 +1,4 @@
-# Class 3 notes
- 
-
+# Clas 3 Notes
 ## HTML & CSSNotes 
 
   
