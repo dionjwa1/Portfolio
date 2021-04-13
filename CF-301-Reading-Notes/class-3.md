@@ -9,4 +9,4 @@
 
 
 ## Vocab
-<code>Test<code>
+<code>Test<code> And more text <code style: color: red>Text<code> and more text
