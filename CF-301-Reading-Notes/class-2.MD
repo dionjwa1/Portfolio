@@ -14,4 +14,3 @@
 1. Modula= % (output is division)
 
 1. 
-<code>Test<code>
