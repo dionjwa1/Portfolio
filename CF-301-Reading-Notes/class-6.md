@@ -1,4 +1,4 @@
-# Clas  Notes
+# Class  Notes
 ## HTML & CSSNotes 
 
   

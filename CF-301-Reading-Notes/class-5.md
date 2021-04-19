@@ -1,4 +1,4 @@
-# Clas 5 Notes
+# Class 5 Notes
 ## HTML & CSSNotes 
 
   
