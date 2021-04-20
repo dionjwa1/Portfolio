@@ -13,5 +13,6 @@
 
 ## Vocab
 `NPM` Node Package Manager (check current version by typing npm -v)
+`WRRC` Web Request Response Server
 
 works cited `SitePoint` (https://www.sitepoint.com/an-introduction-to-node-js/), `CF`(https://www.codefellows.org/blog/6-reasons-for-pair-programming/)
