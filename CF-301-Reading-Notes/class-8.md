@@ -17,7 +17,7 @@
 
 ## Vocab
 `API` Application Programming Interface. exposes apps to clients and should 1) Perform platform independence. 2) Service evolution, it should be able to evolve and add functionality. 
-`REST` Representaional State Transer. 
+`REST` Representational State Transfer. 
 `URI` Unique Resource Identifier
 
 Works Cited `Microsoft`("https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design")
