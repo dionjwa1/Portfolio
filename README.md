@@ -45,4 +45,6 @@ Salutation, my name is Dion. I love learning new things and tackling new challen
     1. [Class 5 Notes](CF-301-Reading-Notes/class-5.md)
     1. [Class 6 Notes](CF-301-Reading-Notes/class-6.md)
     1. [Class 7 Notes](CF-301-Reading-Notes/class-7.md)
+    1. [Class 8 Notes](CF-301-Reading-Notes/class-8.md)
+    1. [Class 9 Notes](CF-301-Reading-Notes/class-9.md)
   
