@@ -41,7 +41,17 @@ Salutation, my name is Dion. I love learning new things and tackling new challen
     1. [Class 1 Notes](CF-301-Reading-Notes/class-1.md)
     1. [Class 2 Notes](CF-301-Reading-Notes/class-2.md)
     1. [Class 3 Notes](CF-301-Reading-Notes/class-3.md)
-    1. [Class 3 Notes](CF-301-Reading-Notes/class-4.md)
+    1. [Class 4 Notes](CF-301-Reading-Notes/class-4.md)
+    1. [Class 5 Notes](CF-301-Reading-Notes/class-5.md)
+    1. [Class 6 Notes](CF-301-Reading-Notes/class-6.md)
+    1. [Class 7 Notes](CF-301-Reading-Notes/class-7.md)
+    1. [Class 8 Notes](CF-301-Reading-Notes/class-8.md)
+    1. [Class 9 Notes](CF-301-Reading-Notes/class-9.md)
+    1. [Class 10 Notes](CF-301-Reading-Notes/class-10.md)
+    1. [Class 11 Notes](CF-301-Reading-Notes/class-11.md)
+    1. [Class 12 Notes](CF-301-Reading-Notes/class-12.md)
+    1. [Class 13 Notes](CF-301-Reading-Notes/class-13.md)
+    1. [Class 14 Notes](CF-301-Reading-Notes/class-14.md)
   
 1. ### 401 Course notes
     1. [Class 1 Notes](CF-401-Reading-Notes/class-01.md)
