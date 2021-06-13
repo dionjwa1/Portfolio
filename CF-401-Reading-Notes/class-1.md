@@ -1,5 +1,5 @@
 # Class 1 notes
-First Note
+First
 
 ## Useful Code Tips
 
