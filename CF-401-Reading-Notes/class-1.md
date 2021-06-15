@@ -15,3 +15,35 @@
 
 
 ## Vocab
+
+- Array.map() = a callback function that creates a new array based on the argument entered as the mapping value and is applied to every value in the old array.  
+
+- Array.reduce() = `Subtracts all values in an array starting from the left of the array. 
+
+- superagent() = function loginUserInternal(user, request) {
+  return new Promise((resolve,reject) => {
+    let auth = {};
+    request
+      .post('/users/login')
+      .send({
+        username: user.username,
+        password: user.password_decoded,
+      })
+      .expect(200)
+      .end(onResponse);
+    function onResponse(err, res) {
+      if(err) return reject(err)
+      auth.id = res.body.id;
+      auth.token = res.body.token;
+      auth.tokenExpires = res.body.tokenExpires;
+      resolve(auth)
+    }
+  })
+}`
+
+- Promises = A promise is a gaurantee exectution made by your code that will operate asynchronous, but ultimately will conclude the promised coded operation. 
+
+- CB Functions = CB functions can be both asynchronous or synchronous. However, they are mostly used as asynchronous operations. 
+
+### Works Cited
+ - I was helped with info or data from W3 Schools, and MOD Dev, Stackoverflow
