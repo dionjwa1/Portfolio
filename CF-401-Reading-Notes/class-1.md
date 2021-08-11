@@ -20,7 +20,7 @@
 
 - Array.reduce() = `Subtracts all values in an array starting from the left of the array. 
 
-- superagent() = function loginUserInternal(user, request) {
+- superagent() = 'function loginUserInternal(user, request) {
   return new Promise((resolve,reject) => {
     let auth = {};
     request
@@ -36,12 +36,12 @@
       auth.id = res.body.id;
       auth.token = res.body.token;
       auth.tokenExpires = res.body.tokenExpires;
-      resolve(auth)
+      resolve(auth) 
     }
   })
-}`
+}`'
 
-- Promises = A promise is a gaurantee exectution made by your code that will operate asynchronous, but ultimately will conclude the promised coded operation. 
+- Promises = A promise is a guarantee execution made by your code that will operate asynchronous, but ultimately will conclude the promised coded operation. 
 
 - CB Functions = CB functions can be both asynchronous or synchronous. However, they are mostly used as asynchronous operations. 
 
